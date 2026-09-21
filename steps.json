@@ -1,0 +1,52 @@
+{
+  "brand": "US3C / iMCheck",
+  "title": "通路端 iMCheck 教學｜專員開單（步驟 1–5）",
+  "total": 5,
+  "steps": [
+    {
+      "id": 1,
+      "image": "steps/01.jpg",
+      "title": "開啟專員手機 App",
+      "narration": "打開專員手機上的商家 App。",
+      "hotspot": null
+    },
+    {
+      "id": 2,
+      "image": "steps/02.jpg",
+      "title": "開啟估價頁面",
+      "narration": "進估價頁，準備開這筆單。",
+      "hotspot": {
+        "fx": 0.23,
+        "fy": 0.8854,
+        "fw": 0.144,
+        "fh": 0.0857
+      }
+    },
+    {
+      "id": 3,
+      "image": "steps/03.jpg",
+      "title": "選擇檢測類別",
+      "narration": "依客人裝置選檢測類別，例如 iPhone。",
+      "hotspot": {
+        "fx": 0.0522,
+        "fy": 0.665,
+        "fw": 0.1345,
+        "fh": 0.107
+      }
+    },
+    {
+      "id": 4,
+      "image": "steps/04.jpg",
+      "title": "產生安裝商家版 QR 碼",
+      "narration": "產生安裝 iMCheck 商家版的 QR 碼。",
+      "hotspot": null
+    },
+    {
+      "id": 5,
+      "image": "steps/05.jpg",
+      "title": "產生一次性通行碼",
+      "narration": "再產生一次性通行碼，稍後給客人輸入。",
+      "hotspot": null
+    }
+  ]
+}
